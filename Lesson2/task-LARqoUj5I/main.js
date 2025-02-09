@@ -16,4 +16,4 @@ let book3 = {
   genre: 'biography'
 }
 
-console.log(book1);
+
