@@ -15,3 +15,5 @@ let book3 = {
   pageCount: 43,
   genre: 'biography'
 }
+
+console.log(book1);
