@@ -16,5 +16,3 @@ else if (a===b) {
 else {
   console.log('You entered a value in an invalid format');
 }
-
-
