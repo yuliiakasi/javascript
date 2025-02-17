@@ -9,5 +9,3 @@ let createList = (text) => {
         </ul>
 `);
 }
-
-createList('hallo');
