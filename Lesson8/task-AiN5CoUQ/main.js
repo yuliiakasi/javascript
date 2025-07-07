@@ -13,5 +13,5 @@ function copier(arg) {
     return parse
     }
     throw new Error('Could not find a function');
-  }
+}
 
